@@ -1,4 +1,4 @@
-package com.spring.boot.jenkins.example;
+package com.spring.boot.jenkins.api;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
